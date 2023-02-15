@@ -3,3 +3,13 @@ C:\ProjetoTranferenciaBancariaDIO\Dio.Bank\obj\Debug\net7.0\Dio.Bank.GeneratedMS
 C:\ProjetoTranferenciaBancariaDIO\Dio.Bank\obj\Debug\net7.0\Dio.Bank.AssemblyInfoInputs.cache
 C:\ProjetoTranferenciaBancariaDIO\Dio.Bank\obj\Debug\net7.0\Dio.Bank.AssemblyInfo.cs
 C:\ProjetoTranferenciaBancariaDIO\Dio.Bank\obj\Debug\net7.0\Dio.Bank.csproj.CoreCompileInputs.cache
+C:\ProjetoTranferenciaBancariaDIO\Dio.Bank\bin\Debug\net7.0\Dio.Bank.exe
+C:\ProjetoTranferenciaBancariaDIO\Dio.Bank\bin\Debug\net7.0\Dio.Bank.deps.json
+C:\ProjetoTranferenciaBancariaDIO\Dio.Bank\bin\Debug\net7.0\Dio.Bank.runtimeconfig.json
+C:\ProjetoTranferenciaBancariaDIO\Dio.Bank\bin\Debug\net7.0\Dio.Bank.dll
+C:\ProjetoTranferenciaBancariaDIO\Dio.Bank\bin\Debug\net7.0\Dio.Bank.pdb
+C:\ProjetoTranferenciaBancariaDIO\Dio.Bank\obj\Debug\net7.0\Dio.Bank.dll
+C:\ProjetoTranferenciaBancariaDIO\Dio.Bank\obj\Debug\net7.0\refint\Dio.Bank.dll
+C:\ProjetoTranferenciaBancariaDIO\Dio.Bank\obj\Debug\net7.0\Dio.Bank.pdb
+C:\ProjetoTranferenciaBancariaDIO\Dio.Bank\obj\Debug\net7.0\Dio.Bank.genruntimeconfig.cache
+C:\ProjetoTranferenciaBancariaDIO\Dio.Bank\obj\Debug\net7.0\ref\Dio.Bank.dll

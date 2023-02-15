@@ -1,0 +1,5 @@
+C:\ProjetoTranferenciaBancariaDIO\Dio.Bank\obj\Debug\net7.0\Dio.Bank.csproj.AssemblyReference.cache
+C:\ProjetoTranferenciaBancariaDIO\Dio.Bank\obj\Debug\net7.0\Dio.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetoTranferenciaBancariaDIO\Dio.Bank\obj\Debug\net7.0\Dio.Bank.AssemblyInfoInputs.cache
+C:\ProjetoTranferenciaBancariaDIO\Dio.Bank\obj\Debug\net7.0\Dio.Bank.AssemblyInfo.cs
+C:\ProjetoTranferenciaBancariaDIO\Dio.Bank\obj\Debug\net7.0\Dio.Bank.csproj.CoreCompileInputs.cache
